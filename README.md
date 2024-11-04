@@ -1,10 +1,9 @@
 ## Installation
 
-To get started, you'll need to install the required dependencies. You'll need the latest version of Python and the libraries `pyperclip` and `pyinstaller`. You can install them using the following commands:
+To get started, you'll need the latest version of [Python](https://www.python.org/downloads/) and some libraries which can be installed using the following command:
 
 ```bash
-pip install pyperclip
-pip install pyinstaller
+pip install -r requirements.txt
 ```
 
 ## Compilation
